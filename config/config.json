@@ -1,0 +1,27 @@
+{
+  "subject": {
+    "prefix": "[Contact Form Message]"
+  },
+  "footer": {
+    "footertext": "<p>\n  <em>\n<span style=\"color:#c0392b;\">\n<strong>Requests to create a mail account are deleted unread.</strong>\n</span>\n\n <br/>\n ---\n <br/>\n If you experience any problems or have\n <br/>\n a general query relating to our mail server,\n <br/>\n please contact the following e-mail address :\n <br/>\n (<strong>postmaster@localhost</strong>).\n <br/>\n or use our contactform above.\n  </em>\n   </p>"
+  },
+  "emails": {
+    "to": "admin@localhost",
+    "from": "contact@localhost"
+  },
+  "messages": {
+    "error": "There was an error sending your message, please try again later.",
+    "success": "Your message has been sent successfully."
+  },
+  "fields": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "security": "Result",
+    "btn-send": "Send"
+  },
+  "debug": true,
+  "errors_enabled": true
+}
